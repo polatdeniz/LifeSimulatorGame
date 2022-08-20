@@ -150,17 +150,17 @@ public class HorseRace extends javax.swing.JFrame {
             }
         });
 
-        pictureByerly.setIcon(new ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\horse racing\\byerly.png"));
+        pictureByerly.setIcon(new ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\horse racing\\byerly.png"));
 
-        pictureKarayel.setIcon(new ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\horse racing\\Karayel.png"));
+        pictureKarayel.setIcon(new ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\horse racing\\Karayel.png"));
 
-        pictureBoldPilot.setIcon(new ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\horse racing\\bold pilot.png"));
+        pictureBoldPilot.setIcon(new ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\horse racing\\bold pilot.png"));
 
-        pictureTrapper.setIcon(new ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\horse racing\\trapper.png"));
+        pictureTrapper.setIcon(new ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\horse racing\\trapper.png"));
 
-        pictureTurbo.setIcon(new ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\horse racing\\turbo.png"));
+        pictureTurbo.setIcon(new ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\horse racing\\turbo.png"));
 
-        pictureSahBatur.setIcon(new ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\horse racing\\ƒah batur.png"));
+        pictureSahBatur.setIcon(new ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\horse racing\\ƒah batur.png"));
 
         labelBetAmount.setText("Bet");
         labelBetAmount.setToolTipText("");

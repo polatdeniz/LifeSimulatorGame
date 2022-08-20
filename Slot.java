@@ -92,19 +92,19 @@ public class Slot extends javax.swing.JFrame {
 	        
 	        int firstLabelRandom = (int) (Math.random()*11+1);
 	        
-	        SlotFirstImageLabel.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\slot\\"+firstLabelRandom+".png")));
+	        SlotFirstImageLabel.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\slot\\"+firstLabelRandom+".png")));
 	        
 	        
 	        
 	        int secondLabelRandom = (int) (Math.random()*11+1);
 	        
-	        SlotSecondImageLabel.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\slot\\"+secondLabelRandom+".png")));
+	        SlotSecondImageLabel.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\slot\\"+secondLabelRandom+".png")));
 	        
 	        
 	        
 	        int thirdLabelRandom = (int) (Math.random()*11+1);
 	        
-	        SlotThirdImageLabel.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\slot\\"+thirdLabelRandom+".png")));
+	        SlotThirdImageLabel.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\slot\\"+thirdLabelRandom+".png")));
 	        
 	        if(thirdLabelRandom ==  1 && firstLabelRandom ==  1 && secondLabelRandom ==  1 && firstLabelRandom == 1){
 	        

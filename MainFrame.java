@@ -113,17 +113,17 @@ public class MainFrame extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setResizable(false);
 
-        MainMenuMoneyPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Main Men�\\Money.png")); // NOI18N
+        MainMenuMoneyPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Main Men�\\Money.png")); // NOI18N
 
-        MainMenuLodgingPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Main Men�\\Lodging.png")); // NOI18N
+        MainMenuLodgingPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Main Men�\\Lodging.png")); // NOI18N
 
-        MainMenuTransportPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Main Men�\\Transport.png")); // NOI18N
+        MainMenuTransportPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Main Men�\\Transport.png")); // NOI18N
 
-        MainMenuEducationPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Main Men�\\Education.png")); // NOI18N
+        MainMenuEducationPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Main Men�\\Education.png")); // NOI18N
 
-        MainMenuHealthPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Main Men�\\Health.png")); // NOI18N
+        MainMenuHealthPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Main Men�\\Health.png")); // NOI18N
 
-        MainMenuFoodPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Main Men�\\Food.png")); // NOI18N
+        MainMenuFoodPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Main Men�\\Food.png")); // NOI18N
 
         MainMenuMoneyWriteLabel.setText("MONEY");
 
@@ -704,27 +704,27 @@ public class MainFrame extends javax.swing.JFrame {
 
         EducationSpecialSkillsLabel.setText("SPECIAL SKILLS");
 
-        EducationSecondarySchoolPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Education\\Secondary School.png")); // NOI18N
+        EducationSecondarySchoolPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Education\\Secondary School.png")); // NOI18N
 
-        EducationHighSchoolPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Education\\High School.png")); // NOI18N
+        EducationHighSchoolPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Education\\High School.png")); // NOI18N
 
-        EducationGeneralTrainingPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Education\\General Training.png")); // NOI18N
+        EducationGeneralTrainingPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Education\\General Training.png")); // NOI18N
 
-        EducationCollagePicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Education\\Study at Collage.png")); // NOI18N
+        EducationCollagePicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Education\\Study at Collage.png")); // NOI18N
 
-        EducationMasterDegreePicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Education\\Master Degree.png")); // NOI18N
+        EducationMasterDegreePicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Education\\Master Degree.png")); // NOI18N
 
-        EducationDrivingLicencePicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Education\\Driving licence.png")); // NOI18N
+        EducationDrivingLicencePicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Education\\Driving licence.png")); // NOI18N
 
-        EducationLiquorPermitPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Education\\liquor permit.png")); // NOI18N
+        EducationLiquorPermitPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Education\\liquor permit.png")); // NOI18N
 
-        EducationLearnBusinessPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Education\\learn business.png")); // NOI18N
+        EducationLearnBusinessPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Education\\learn business.png")); // NOI18N
 
-        EducationLearnLawsPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Education\\learn laws.png")); // NOI18N
+        EducationLearnLawsPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Education\\learn laws.png")); // NOI18N
 
-        EducationLearnAccountPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Education\\Accounting.png")); // NOI18N
+        EducationLearnAccountPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Education\\Accounting.png")); // NOI18N
 
-        EducationLearnManagementPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\Education\\learn management.png")); // NOI18N
+        EducationLearnManagementPicLabel.setIcon(new javax.swing.ImageIcon("C:\\Users\\deniz\\OneDrive\\Masaüstü\\Education\\learn management.png")); // NOI18N
 
         EducationSecondarySchoolButton.setText("Secondary School 100$");
         EducationSecondarySchoolButton.addActionListener(new java.awt.event.ActionListener() {

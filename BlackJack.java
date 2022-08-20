@@ -337,7 +337,7 @@ public class BlackJack extends javax.swing.JFrame{
                 kullanıcıPuanGöstergesi.setText("Puan: " + String.valueOf(kullanıcıPuan));
                         
             }
-             	kullanıcıKart1.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\blackjack\\cards\\"+kartNo+".png")));
+             	kullanıcıKart1.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\blackjack\\cards\\"+kartNo+".png")));
                 
             kartNo = (int)((Math.random()*52)+1);
             
@@ -367,7 +367,7 @@ public class BlackJack extends javax.swing.JFrame{
                         kullanıcıPuanGöstergesi.setText("Puan: " + String.valueOf(kullanıcıPuan));
                         
                 }
-                kullanıcıKart2.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\blackjack\\cards\\"+kartNo+".png")));
+                kullanıcıKart2.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\blackjack\\cards\\"+kartNo+".png")));
                 
                 kartNo = (int)((Math.random()*52)+1);
             
@@ -396,8 +396,8 @@ public class BlackJack extends javax.swing.JFrame{
                         bilgisayarPuanGöstergesi.setText("Puan: " + String.valueOf(bilgisayarPuan));
                         
                 }
-                bilgisayarKartı1.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\blackjack\\cards\\"+kartNo+".png")));
-                bilgisayarKartı2.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\blackjack\\cards\\0.png")));
+                bilgisayarKartı1.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\blackjack\\cards\\"+kartNo+".png")));
+                bilgisayarKartı2.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\blackjack\\cards\\0.png")));
                  
         }
     }                                          
@@ -509,7 +509,7 @@ public class BlackJack extends javax.swing.JFrame{
 
                 }
             x++;    
-            kullanıcıKart3.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\blackjack\\cards\\"+kartNo+".png")));
+            kullanıcıKart3.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\blackjack\\cards\\"+kartNo+".png")));
                 
             }
 
@@ -545,7 +545,7 @@ public class BlackJack extends javax.swing.JFrame{
 
                 }
             x++;
-            kullanıcıKart4.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\blackjack\\cards\\"+kartNo+".png")));
+            kullanıcıKart4.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\blackjack\\cards\\"+kartNo+".png")));
             
             }
             
@@ -580,7 +580,7 @@ public class BlackJack extends javax.swing.JFrame{
 
                 }
             x++;
-            kullanıcıKart5.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\blackjack\\cards\\"+kartNo+".png")));
+            kullanıcıKart5.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\blackjack\\cards\\"+kartNo+".png")));
             
             }
         
@@ -670,7 +670,7 @@ public class BlackJack extends javax.swing.JFrame{
                 
         }
         
-        bilgisayarKartı2.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\blackjack\\cards\\"+kartNo+".png")));
+        bilgisayarKartı2.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\blackjack\\cards\\"+kartNo+".png")));
         
         if(bilgisayarPuan < 17){
             
@@ -700,7 +700,7 @@ public class BlackJack extends javax.swing.JFrame{
                         bilgisayarPuanGöstergesi.setText("Puan: " + String.valueOf(bilgisayarPuan));
                         
                 }
-                bilgisayarKartı3.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\blackjack\\cards\\"+kartNo+".png")));
+                bilgisayarKartı3.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\blackjack\\cards\\"+kartNo+".png")));
                 
                 
         }
@@ -738,7 +738,7 @@ public class BlackJack extends javax.swing.JFrame{
                         bilgisayarPuanGöstergesi.setText("Puan: " + String.valueOf(bilgisayarPuan));
                         
                 }
-                bilgisayarKartı4.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\blackjack\\cards\\"+kartNo+".png")));
+                bilgisayarKartı4.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\blackjack\\cards\\"+kartNo+".png")));
                 }
                 
                 if(bilgisayarPuan < 17){
@@ -774,7 +774,7 @@ public class BlackJack extends javax.swing.JFrame{
                         bilgisayarPuanGöstergesi.setText("Puan: " + String.valueOf(bilgisayarPuan));
                         
                 }
-                bilgisayarKartı5.setIcon(new ImageIcon(("C:\\Users\\deniz\\eclipse-workspace\\Project\\src\\mini games\\blackjack\\cards\\"+kartNo+".png")));
+                bilgisayarKartı5.setIcon(new ImageIcon(("C:\\Users\\deniz\\OneDrive\\Masaüstü\\mini games\\blackjack\\cards\\"+kartNo+".png")));
                 }
         
         if(bilgisayarPuan > 21){
